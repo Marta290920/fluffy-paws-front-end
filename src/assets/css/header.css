@@ -1,0 +1,26 @@
+.header-text{
+ font-family:'Lucida Handwriting';
+ font-size:30px;
+ text-align: center;
+ display: inline-block;
+ width: 100%;
+}
+.sign-in{
+    width: 100px;
+    text-align:end;
+    /* display: inline-block; */
+    font-size:17px;
+    /* color: blue; */
+    margin: 7px 7px 7px 3px;
+    background-color: #fff2e9;
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align:center;
+    text-decoration: none;
+}
+.sign-in:active{
+        background-color: #ff66c4;
+        transition: color 0s 
+}
+/* style={{fontSize:'15px', textAlign: 'end', margin: "7px 7px 7px 3px" , width: '100px'}} */

@@ -1,0 +1,21 @@
+.title-about{
+ font-family:'Lucida Handwriting';
+ font-size:30px;
+ text-align:center;
+ display: inline-block;
+}
+.about-clinic{
+    font-family:Garamond;
+    margin: 7px 20px 7px 30px;
+    font-size:20px;
+}
+.adress{
+    font-family: cursive;
+    margin: 7px 20px 7px 30px;
+    font-size:20px;
+}
+.phone{
+    font-family: cursive;
+    margin: 7px 20px 7px 30px;
+    font-size:20px; 
+}
